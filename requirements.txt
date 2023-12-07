@@ -1,0 +1,7 @@
+pip install fastapi 
+
+pip install uvicorn
+
+pip install python-dotenv
+
+python -m pip install "pymongo[srv]"

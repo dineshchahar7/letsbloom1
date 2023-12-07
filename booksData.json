@@ -1,0 +1,224 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "To Kill a Mockingbird",
+    "authorName": "Harper Lee",
+    "quantity": 5
+  },
+  {
+    "bookId": 2,
+    "bookName": "Harry Potter and the Sorcerer's Stone",
+    "authorName": "J.K. Rowling",
+    "quantity": 8
+  },
+  {
+    "bookId": 3,
+    "bookName": "The Lord of the Rings: The Fellowship of the Ring",
+    "authorName": "J.R.R. Tolkien",
+    "quantity": 10
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Book Thief",
+    "authorName": "Markus Zusak",
+    "quantity": 3
+  },
+  {
+    "bookId": 5,
+    "bookName": "Pride and Prejudice",
+    "authorName": "Jane Austen",
+    "quantity": 6
+  },
+  {
+    "bookId": 6,
+    "bookName": "1984",
+    "authorName": "George Orwell",
+    "quantity": 7
+  },
+  {
+    "bookId": 7,
+    "bookName": "Animal Farm",
+    "authorName": "George Orwell",
+    "quantity": 4
+  },
+  {
+    "bookId": 8,
+    "bookName": "The Great Gatsby",
+    "authorName": "F. Scott Fitzgerald",
+    "quantity": 9
+  },
+  {
+    "bookId": 9,
+    "bookName": "The Catcher in the Rye",
+    "authorName": "J.D. Salinger",
+    "quantity": 2
+  },
+  {
+    "bookId": 10,
+    "bookName": "The Adventures of Huckleberry Finn",
+    "authorName": "Mark Twain",
+    "quantity": 5
+  },
+  {
+    "bookId": 11,
+    "bookName": "The Grapes of Wrath",
+    "authorName": "John Steinbeck",
+    "quantity": 3
+  },
+  {
+    "bookId": 12,
+    "bookName": "Of Mice and Men",
+    "authorName": "John Steinbeck",
+    "quantity": 4
+  },
+  {
+    "bookId": 13,
+    "bookName": "Fahrenheit 451",
+    "authorName": "Ray Bradbury",
+    "quantity": 6
+  },
+  {
+    "bookId": 14,
+    "bookName": "The Handmaid's Tale",
+    "authorName": "Margaret Atwood",
+    "quantity": 7
+  },
+  {
+    "bookId": 15,
+    "bookName": "The Color Purple",
+    "authorName": "Alice Walker",
+    "quantity": 2
+  },
+  {
+    "bookId": 16,
+    "bookName": "Beloved",
+    "authorName": "Toni Morrison",
+    "quantity": 8
+  },
+  {
+    "bookId": 17,
+    "bookName": "Atonement",
+    "authorName": "Ian McEwan",
+    "quantity": 5
+  },
+  {
+    "bookId": 18,
+    "bookName": "The Kite Runner",
+    "authorName": "Khaled Hosseini",
+    "quantity": 3
+  },
+  {
+    "bookId": 19,
+    "bookName": "The Secret Life of Bees",
+    "authorName": "Sue Monk Kidd",
+    "quantity": 6
+  },
+  {
+    "bookId": 20,
+    "bookName": "Seabiscuit",
+    "authorName": "Laura Hillenbrand",
+    "quantity": 4
+  },
+  {
+    "bookId": 21,
+    "bookName": "The Life of Pi",
+    "authorName": "Yann Martel",
+    "quantity": 7
+  },
+  {
+    "bookId": 22,
+    "bookName": "The Curious Case of Benjamin Button",
+    "authorName": "F. Scott Fitzgerald",
+    "quantity": 5
+  },
+  {
+    "bookId": 23,
+    "bookName": "Water for Elephants",
+    "authorName": "Sara Gruen",
+    "quantity": 3
+  },
+  {
+    "bookId": 24,
+    "bookName": "The Help",
+    "authorName": "Kathryn Stockett",
+    "quantity": 8
+  },
+  {
+    "bookId": 25,
+    "bookName": "The Soul of a New Machine",
+    "authorName": "Tracy Kidder",
+    "quantity": 2
+  },
+  {
+    "bookId": 26,
+    "bookName": "Gödel, Escher, Bach",
+    "authorName": "Douglas Hofstadter",
+    "quantity": 5
+  },
+  {
+    "bookId": 27,
+    "bookName": "A Brief History of Time",
+    "authorName": "Stephen Hawking",
+    "quantity": 7
+  },
+  {
+    "bookId": 28,
+    "bookName": "The Universe in a Nutshell",
+    "authorName": "Stephen Hawking",
+    "quantity": 4
+  },
+  {
+    "bookId": 29,
+    "bookName": "Cosmos",
+    "authorName": "Carl Sagan",
+    "quantity": 6
+  },
+  {
+    "bookId": 30,
+    "bookName": "A Short History of Nearly Everything",
+    "authorName": "Bill Bryson",
+    "quantity": 3
+  },
+  {
+    "bookId": 31,
+    "bookName": "The God Delusion",
+    "authorName": "Richard Dawkins",
+    "quantity": 7
+  },
+  {
+    "bookId": 32,
+    "bookName": "The Hitchhiker's Guide to the Galaxy",
+    "authorName": "Douglas Adams",
+    "quantity": 5
+  },
+  {
+    "bookId": 33,
+    "bookName": "The Martian",
+    "authorName": "Andy Weir",
+    "quantity": 4
+  },
+  {
+    "bookId": 34,
+    "bookName": "Project Hail Mary",
+    "authorName": "Andy Weir",
+    "quantity": 6
+  },
+  {
+    "bookId": 35,
+    "bookName": "The Three-Body Problem",
+    "authorName": "Liu Cixin",
+    "quantity": 8
+  },
+  {
+    "bookId": 36,
+    "bookName": "The Wandering Earth",
+    "authorName": "Liu Cixin",
+    "quantity": 5
+  },
+  {
+    "bookId": 37,
+    "bookName": "Death Note",
+    "authorName": "Tsugumi Ohba",
+    "quantity": 3
+  }
+]
