@@ -14,8 +14,8 @@ Before running the application, make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone 'repo address'
-cd 'repo name'
+git clone 'https://github.com/dineshchahar7/letsbloom1.git'
+cd 'letsbloom1'
 ```
 
 2. Install dependencies:
